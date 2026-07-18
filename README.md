@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm KRISHNA KUMAR SAH</h1>
-<h3 align="center">A passionate DATA SCIENCE AS WELL AS DATA SCIENTISTS from NEPAL,MADHESH PROVIENCE. DHANUSHA,JANAKPURDHA-17</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-sah01&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-sah01" /> </p>
+<h1 align="center">Hi there, I'm Krishna Kumar Sah 👋</h1>
+<h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Data Visualization</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F6E56&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Learning+Machine+Learning%2C+one+model+at+a+time;Building+in+public%2C+growing+every+day;Open+to+Data+Science+%2F+AI-ML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-sah01&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-sah01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-sah01" alt="krishna-sah01" /></a> </p>
 
